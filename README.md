@@ -115,15 +115,7 @@ Interactive quiz application developed with Python and Streamlit.
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamDubey19&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
 
 ## 🐍 My Contributions
 
