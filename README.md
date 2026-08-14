@@ -4,7 +4,7 @@
 
 ### Software Engineer | Frontend Developer | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Frontend+Developer+%7C+React.js;Building+AI-Powered+Applications;React+%7C+TypeScript+%7C+JavaScript;Exploring+AI+%26+Automation;Always+Learning.+Always+Building." alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&center=true\&vCenter=true\&width=700\&lines=Frontend+Developer+%7C+React.js;Building+Modern+Web+Experiences;React+%7C+TypeScript+%7C+JavaScript;AI+%26+Automation+Enthusiast;Always+Learning.+Always+Improving.)](https://git.io/typing-svg)
 
 </div>
 
@@ -13,12 +13,12 @@
 ## 👨‍💻 About Me
 
 * 💻 Software Engineer with experience in **Frontend Development**
-* ⚛️ Building modern applications using **React.js, TypeScript & JavaScript**
-* 🤖 Interested in **AI-powered applications & intelligent automation**
-* 🧠 Experienced with **Supabase, Auth0 & OpenAI integrations**
-* ⚡ Building automation workflows using **n8n & REST APIs**
-* 🌱 Currently expanding my knowledge in **AI, Full-Stack Development & Automation**
-* 🎯 Passionate about turning ideas into **real-world products**
+* ⚛️ Worked with **React.js, TypeScript, JavaScript, HTML & CSS**
+* 🤖 Experienced in integrating **AI-powered features using OpenAI APIs**
+* 🧠 Worked with **Supabase, Auth0 & real-time applications**
+* ⚡ Built automation workflows using **n8n, JavaScript & REST APIs**
+* 🚀 Experienced in building **responsive web applications, AI-integrated features & automation workflows**
+* 🌱 Continuously improving my skills in **Frontend Development, AI Integration & Automation**
 * 💬 Ask me about **React, JavaScript, TypeScript, Supabase & Frontend Development**
 
 ---
@@ -27,116 +27,101 @@
 
 ### Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,angular,vite" />
-</p>
+![Frontend Skills](https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap,angular,vite)
 
 ### Backend & Database
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,supabase,mysql" />
-</p>
+![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,python,flask,supabase,mysql)
 
 ### Tools & Cloud
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,azure,netlify" />
-</p>
+![Tools](https://skillicons.dev/icons?i=git,github,vscode,azure,netlify)
 
 ### AI & Automation
 
-<p align="left">
-
 `OpenAI` • `n8n` • `REST APIs` • `AI Integration` • `Workflow Automation`
-
-</p>
 
 ---
 
-## 🚀 What I'm Building
+## 💼 Selected Work
 
-### 🧠 Brightminds
+### 🧠 Brightminds — AI-Powered Education Platform
 
-AI-powered educational platform featuring interactive learning experiences, multiplayer games and AI-generated content.
+Worked on an interactive educational platform with AI-powered learning experiences, multiplayer games, student/teacher workflows, assignments and real-time features.
 
-**Tech:** React • TypeScript • Supabase • Auth0 • OpenAI
+**Tech:** React.js • TypeScript • Supabase • Auth0 • OpenAI
 
-### 📄 AI Resume & Portfolio Optimizer
+---
 
-AI-powered application designed to analyze and improve resumes and developer portfolios.
+### 🏠 Homecare Support
 
-**Tech:** React • JavaScript • AI APIs • Modern Web Technologies
+Contributed to the development and improvement of a responsive web platform, focusing on frontend implementation and user experience.
+
+**Tech:** React.js • JavaScript • HTML • CSS
+
+---
+
+### 🛒 E-Commerce Web Application
+
+Developed a full-stack e-commerce application with product management, database integration and core shopping functionality.
+
+**Tech:** Flask • SQLAlchemy • SQLite • HTML • CSS
+
+---
+
+### 🩺 Skin Disease Detection System
+
+Developed a machine-learning-based system for skin disease classification using image analysis and classification algorithms.
+
+**Tech:** Python • CNN • Multiclass SVM • MySQL
+
+---
+
+### 🎵 Python Music Player
+
+Built a desktop music player with an interactive GUI and audio playback functionality.
+
+**Tech:** Python • Tkinter • pygame
+
+---
+
+### 🎯 Interactive Quiz Game
+
+Created an interactive quiz application with a simple and engaging user interface.
+
+**Tech:** Python • Streamlit
+
+---
 
 ### ⚡ Automation Workflows
 
-Building automated workflows for data extraction, APIs, Google Sheets and repetitive business processes.
+Built automation workflows for website data extraction, API integration, data transformation and automated Google Sheets updates.
 
 **Tech:** n8n • JavaScript • REST APIs • Google Sheets
 
 ---
 
-## 💻 Other Projects
-
-### 🛒 E-Commerce Web Application
-
-Full-stack e-commerce application built using Flask and SQLAlchemy.
-
-### 🧠 Skin Disease Detection System
-
-Machine-learning-based disease detection system using CNN and Multiclass SVM.
-
-### 🎵 Python Music Player
-
-Desktop music player built using Python, Tkinter and pygame.
-
-### 🎯 Interactive Quiz Game
-
-Interactive quiz application developed with Python and Streamlit.
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SakshamDubey19&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDubey19&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SakshamDubey19&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=SakshamDubey19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-
-
-## 🐍 My Contributions
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/SakshamDubey19/SakshamDubey19/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/saksham-dubey-b45aa11a0">
-<img src="https://img.shields.io/badge/LinkedIn-Saksham%20Dubey-blue?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Saksham%20Dubey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/SakshamDubey19">
-<img src="https://img.shields.io/badge/GitHub-SakshamDubey19-black?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-SakshamDubey19-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/dubeysaksham40">
